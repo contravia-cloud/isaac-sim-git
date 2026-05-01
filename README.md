@@ -1,2 +1,2 @@
 # isaac-sim-git
-isaac-sim sample code and doc
+isaac-sim sample code and document
