@@ -32,3 +32,4 @@ docker run --name isaac-sim --entrypoint bash -it --gpus all -e "ACCEPT_EULA=Y" 
     NVIDIA가 만든 딥러닝 모델 추론(Inference) 가속화 라이브러리입니다. 쉽게 말해, 이미 학습이 완료된 인공지능 모델을 NVIDIA GPU에서 가장 빠르고 효율적으로 실행할 수 있도록 '재구성'해주는 최적화 엔진
     보통은 'PyTorch 모델 \(\rightarrow \) ONNX 변환 \(\rightarrow \) TensorRT 최적화'의 과정을 거칩
 
+
