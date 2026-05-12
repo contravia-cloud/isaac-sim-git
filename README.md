@@ -25,6 +25,9 @@ docker run --name isaac-sim --entrypoint bash -it --gpus all -e "ACCEPT_EULA=Y" 
 ./isaacsim-webrtc-streaming-client-1.1.5-linux-x64.AppImage --no-sandbox
 ```
 
+
+
+
 ## 용어 정리
   - ONNX(Open Neural Network Exchange), 온닉스
     PyTorch, TensorFlow 등 다양한 머신러닝/딥러닝 프레임워크 간에 모델을 자유롭게 교환하고 사용할 수 있도록 만들어진 개방형 표준 파일 포맷
